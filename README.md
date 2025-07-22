@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Leonardo Gurgitano
 
-<!--
-**leo3852/leo3852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer, specialized in .NET, Angular, Azure technologies, and SQL Server
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Frontend:** Angular, TypeScript, Tailwind, Chart.js
+- **Backend:** .NET Core, C#, REST APIs, Node
+- **DB:** SQL Server, 
+- **Tools:** Azure, Docker
+- 🌱 I’m currently learning Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's connect
+Feel free to explore my repositories or [connect on LinkedIn](https://www.linkedin.com/in/LeonardoGurgitano/ )

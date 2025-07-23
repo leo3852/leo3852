@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leonardo Gurgitano
+# 👋 Hi, I'm Leo
 
 🚀 I'm a Full-Stack Developer, specialized in .NET, Angular, Azure technologies, and SQL Server
 Passionate about clean architecture, learning new technologies, and solving real-world problems with code.

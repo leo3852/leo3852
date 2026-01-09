@@ -8,7 +8,7 @@ Passionate about clean architecture, learning new technologies, and solving real
 - **Backend:** .NET Core, C#, REST APIs, Node
 - **DB:** SQL Server, 
 - **Tools:** Azure, Docker
-- 🌱 I’m currently learning Unity
+- 🌱 Always learning something new
 
 ### 📫 Let's connect
 Feel free to explore my repositories or [connect on LinkedIn](https://www.linkedin.com/in/LeonardoGurgitano/ )
